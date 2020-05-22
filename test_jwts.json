@@ -1,0 +1,11 @@
+{
+"keys": [
+  {
+    "alg": "HS512",
+    "kty": "HMAC",
+    "use": "sig",
+    "n": "ESGq7,[[KK+O3j%UR,ly[Zg`2{F?-%0Tt:{}]>x6v(FqC(01MS^vb(Aq0XFApW2;",
+    "e": "AQAB",
+    "kid": "ESGq7,[[KK+O3j%UR,ly[Zg`2{F?-%0Tt:{}]>x6v(FqC(01MS^vb(Aq0XFApW2;"
+  }
+]}
